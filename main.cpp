@@ -4,7 +4,8 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
-	cout << "emmmmmmmm" << endl;
-	
+		cout << "emmmmmmmm" << endl;
+	cout << "find the path" << endl;
+
 	return 0;
 }
